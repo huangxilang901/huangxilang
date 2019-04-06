@@ -1,3 +1,3 @@
 # huangxilang
 
-Just some notes for learning the CNN
+Just some notes for learning the machine learning
