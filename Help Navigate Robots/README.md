@@ -11,3 +11,4 @@ measurement_number: Measurement number within the series.
 orientation_X, orientation_Y,... : The 10 sensor channels describe the oriented as a quaternion, angular velocity, and acceleration.  
 As analyzing the given data, we can find that there are 4 coordinates: X,Y,Z,W  
 Usually we have X,Y,Z - Euler Angles. So it's necessary to convert quaternions to euler which we are more familiar with.
+
